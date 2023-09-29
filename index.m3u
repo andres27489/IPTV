@@ -1,0 +1,66 @@
+#EXTM3U
+
+#EXTINF:-1 ,group-title="Antena Local" ,5 TV Tlaxcala http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 ,tvg-l,group-title="Antena Local" ,ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+ 
+#EXTINF:-1 ,AZTECA NOTICIAS http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1 ,group-title="Antena Local" ,Azteca UNO
+ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+ 
+#EXTINF:-1 ,Canal 22 [Regional]
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/canal22/
+
+#EXTINF:-1 ,Canal 22 [sdp]
+rtmp://192.96.217.230/live/smrtv.sdp
+
+#EXTINF:-1 , group-title="Antena Local" ,Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+#EXTINF:-1 ,CARTOON NETWORK http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 ,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 ,El Trece HD http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+#EXTINF:-1 ,ES : FOX http://62.210.162.88:80/live/ES125/133708032016/1739.ts
+
+#EXTINF:-1 ,ES : CANAL+ ESTRENOS http://62.210.162.88:80/live/ES125/133708032016
+
+#EXTINF:-1 , ,Excélsior TV [Not 24/7] https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+
+#EXTINF:-1 ,National Geographic
+http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
+
+#EXTINF:-1 ,Nick JR http://iptvbox.noip.us:9998/live/atik/atik/681.m3u8
+
+#EXTINF:-1 ,Nickelodeon http://iptvbox.noip.us:9998/live/atik/atik/221.m3u8
+
+#EXTINF:-1 ,MTV http://iptvbox.noip.us:9998/live/atik/atik/1361.m3u8
+
+#EXTINF:-1 ,Poker TV
+https://hls.pokertvfa.live/hls/stream.m3u8
+
+#EXTINF:-1 ,Red Bull TV
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+ 
+#EXTINF:-1 ,SET Televisión Canal 26.1
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+
+#EXTINF:-1 ,Syfy http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
+#EXTINF:-1 ,group-title="Antena Local" ,Televisa EDOMEX [Not 24/7] https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
+
+#EXTINF:-1 ,group-title="Antena Local", Televisa Puebla [Not 24/7] https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+
+#EXTINF:-1 ,group-title="Antena Local" ,Tlaxcala TV 1 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,group-title="Antena Local" ,Tlaxcala TV NEW
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+
+#EXTINF:-1 ,tve Internacional Asia-Oseanía
+http://210.210.155.37/uq2663/h/h158/index2.m3u8 
+
+#EXTINF:-1 ,Vice East https://d2do1g43aq7264.cloudfront.net/playlist.m3u8 
